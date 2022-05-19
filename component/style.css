@@ -1,0 +1,14 @@
+.Table{
+padding: 30px;
+}
+input{
+    margin-left: 20px;
+}
+label{
+    padding: 30px 30px 0px 60px;
+    display: flex;
+    justify-content: flex-start;
+}
+th,td{
+    padding: 10px 40px;
+}
